@@ -1,0 +1,51 @@
+body{
+    background-color: #F8EEDC;
+}
+
+.food-logo {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    margin-top: 2em;
+}
+
+img, svg {
+    vertical-align: middle;
+    width: 300px;
+    height: 100px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #664C28;
+    border-color: #664C28;
+}
+.card-header{
+    color: white;
+    text-align: center;
+    background-color: #664C28;
+}
+.card-img-top{
+    width: 176.66px;
+    height: 165px;
+}
+input{
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    width: 120px;
+}
+#search-item {
+    margin-top: 1.5rem !important;
+    text-align: center;
+    width: 300px;
+    padding-left: 20px;
+}
+
+.card-body {
+    flex: 1 1 auto;
+    padding: 1rem 1rem;
+    background-color: aliceblue;
+
+}
